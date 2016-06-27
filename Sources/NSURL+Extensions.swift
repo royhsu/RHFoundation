@@ -2,7 +2,7 @@
 //  NSURL+Extensions.swift
 //  RHFoundation
 //
-//  Created by Roy Hsu on 2016/6/27.
+//  Created by 許郁棋 on 2016/6/27.
 //  Copyright © 2016年 Roy Hsu. All rights reserved.
 //
 
